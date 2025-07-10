@@ -108,7 +108,7 @@
 
 ###
 
-<h2 align="left">Stack</h2>
+<h2 align="left">Socials</h2>
 
 ###
 
